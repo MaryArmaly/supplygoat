@@ -3008,6 +3008,8 @@ helmet@^2.0.0:
     nocache "1.0.1"
     referrer-policy "1.0.0"
     x-xss-protection "1.0.0"
+    @genkit-ai/flow "0.5.4"
+    adaline "0.4.3"
 
 hide-powered-by@1.0.0:
   version "1.0.0"
@@ -7439,6 +7441,16 @@ ws@^1.0.1:
 
 x-xss-protection@1.0.0:
   version "1.0.0"
+  resolved "https://registry.yarnpkg.com/x-xss-protection/-/x-xss-protection-1.0.0.tgz#898afb93869b24661cf9c52f9ee8db8ed0764dd9"
+  integrity sha512-krOVDTCKbNo9UPnQwCQVTyNbCFvX+k/L+327BN/urrSBdo6iOdqoe8XXa6HSWcwY9bzzsPvp9eoLA8xxBR/2Ag==
+
+@genkit-ai/flow@0.5.4:
+  version "0.5.4"
+  resolved "https://registry.yarnpkg.com/x-xss-protection/-/x-xss-protection-1.0.0.tgz#898afb93869b24661cf9c52f9ee8db8ed0764dd9"
+  integrity sha512-krOVDTCKbNo9UPnQwCQVTyNbCFvX+k/L+327BN/urrSBdo6iOdqoe8XXa6HSWcwY9bzzsPvp9eoLA8xxBR/2Ag==
+
+adaline@0.4.3:
+  version "0.4.3"
   resolved "https://registry.yarnpkg.com/x-xss-protection/-/x-xss-protection-1.0.0.tgz#898afb93869b24661cf9c52f9ee8db8ed0764dd9"
   integrity sha512-krOVDTCKbNo9UPnQwCQVTyNbCFvX+k/L+327BN/urrSBdo6iOdqoe8XXa6HSWcwY9bzzsPvp9eoLA8xxBR/2Ag==
 
