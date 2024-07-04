@@ -24,7 +24,9 @@
     "genaiscript": "*",
     "swig": "^1.4.2",
     "underscore": "^1.8.3",
-    "genkitx-pinecone": "*"
+    "genkitx-pinecone": "*",
+    "@genkit-ai/flow": "0.5.4",
+    "adaline": "0.4.3"
   },
   "comments": {
     "//": "a9 insecure components"
